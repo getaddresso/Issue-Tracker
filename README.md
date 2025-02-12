@@ -21,8 +21,8 @@ Every contribution helps **make things better for everyone**. Thanks for being p
 - If we need more info, we’ll drop a comment.
 
 ## Guidelines for a Smooth Flow
-✔ Be as clear and concise as possible.
-✔ Check if a similar issue exists before submitting.
-✔ Assign a label (`bug`, `feature`, `enhancement`, etc.) to help us categorize it.
+✔ Be as clear and concise as possible.  
+✔ Check if a similar issue exists before submitting.  
+✔ Assign a label (`bug`, `feature`, `enhancement`, etc.) to help us categorize it.  
 
 Thanks for helping us improve!
